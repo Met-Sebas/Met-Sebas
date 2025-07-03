@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola buenas 
+Soy Sebastián Ramírez, futuro ingeniero de software interesado en la Programación y la Gestión de bases de datos.
 
-<!--
-**Met-Sebas/Met-Sebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Proyectos en los que estoy trabajando 
+- [Interfaz de base de datos y punto de venta]: MySql para la base de datos y C# Windows Forms para la interfaz
 
-Here are some ideas to get you started:
+## 📖 Tencnologías que estoy aprendiendo 
+- Git y GitHub
+- HTML, CSS, JavaScript y php
+- C# y SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✉ Contacto
+- Email: gaelsebastiantrabajos@gmail.com
